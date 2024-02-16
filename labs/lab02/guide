@@ -1,0 +1,2 @@
+pandoc --pdf-engine=lualatex report.md -o report.pdf
+pandoc --pdf-engine=lualatex report.md -o report.docx
